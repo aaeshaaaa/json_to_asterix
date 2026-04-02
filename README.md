@@ -23,7 +23,7 @@ pip install requests
 python captureOpenSky.py
 ```
 
-Polls OpenSky Network every **5 seconds** for **20 minutes** over Abu Dhabi airspace and saves all snapshots to `flight_data.json`. The file is written after every poll so it is safe to stop early with Ctrl+C.
+Polls OpenSky Network every **5 seconds** for **20 minutes** over Abu Dhabi airspace and saves all snapshots to `flight_data.json`.
 
 Bounding box (configurable at the top of the script):
 
