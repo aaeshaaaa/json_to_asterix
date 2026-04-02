@@ -1,7 +1,6 @@
 # json_to_asterix
 
 Capture live ADS-B flights and convert them into ASTERIX **CAT048** and **CAT062** PCAP files.  
-Pure Python — no dependencies except `requests` and `scapy`.
 
 ---
 
